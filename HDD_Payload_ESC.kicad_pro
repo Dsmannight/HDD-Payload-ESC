@@ -328,8 +328,16 @@
       ""
     ],
     [
-      "6cdae098-c8e2-4406-b94a-b4e4bcaac250",
-      "Fets"
+      "8885fa08-a08b-427b-ab9b-dee998c0300a",
+      "GateToFet__1"
+    ],
+    [
+      "6bf54e1c-1d15-4c03-a455-be04bb87d697",
+      "GateToFet__2"
+    ],
+    [
+      "b5b0d1b5-6086-43f2-a722-dafb1cfb3b31",
+      "GateToFet__3"
     ]
   ],
   "text_variables": {}
